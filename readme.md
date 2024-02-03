@@ -13,5 +13,4 @@ Run the program, and choose a number in the given range.
 Press enter, and see if you defused the bomb. Most likely,
 you didn't.
 
-*If I have the time, I might implement a cheat script in
-Python. If I take too long, do it yourself.*
+* I have never ever won... *

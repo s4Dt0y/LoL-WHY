@@ -1,3 +1,5 @@
+use lol_why::run;
+
 fn main() {
-    println!("Welcome to LoL-WHY!");
+    run()
 }

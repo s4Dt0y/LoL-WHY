@@ -13,4 +13,5 @@ Run the program, and choose a number in the given range.
 Press enter, and see if you defused the bomb. Most likely,
 you didn't.
 
-* I have never ever won... *
+# Have u ever won?
+No
